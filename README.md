@@ -1,7 +1,6 @@
 ## ImageSynthCom Using Unity 
 ### Synthetic Image Dataset Generator for Deep Learning
 ####  6 types of image data : RGB, Normals, Layer, Depth, ID(Instance), Optical Flow
-#### with Object instance annotation (json)
 
 ### 1. ImageSynthCom Project Desk_FP Scene Output
 ![c](https://user-images.githubusercontent.com/38905066/119690556-c2e9e100-be84-11eb-970c-bd1a09982e53.PNG)
